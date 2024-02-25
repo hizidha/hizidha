@@ -8,3 +8,16 @@
 - 📫 How to reach me: 
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.zidha@gmail.com)](mailto:hi.zidha@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
+<br>
+
+### ✍️ Random Dev Quote
+![Random_Dev_Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+
+### 📊 GitHub Stats
+![github_stats_1](https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![github_stats_2](https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false)
+<br/>
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hizidha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
