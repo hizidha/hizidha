@@ -11,14 +11,12 @@
   
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)
-<br/>
 
 ### 📊 GitHub Stats
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" style="width: 50%;" alt="GitHub Stats 1">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false" style="width: 50%;" alt="GitHub Stats 2">
   </div>
-<br/>
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hizidha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
