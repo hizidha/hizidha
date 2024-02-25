@@ -14,8 +14,10 @@
 <br/>
 
 ### 📊 GitHub Stats
-![github_stats_1](https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-![github_stats_2](https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false)
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" style="width: 50%;" alt="GitHub Stats 1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false" style="width: 50%;" alt="GitHub Stats 2">
+  </div>
 <br/>
 
 ### 🏆 GitHub Trophies
