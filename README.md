@@ -6,6 +6,5 @@
 - 🌱 I’m currently learning about Machine Learning, UI/UX, and Backend Development.
 - 👯 I’m looking to collaborate on the development of artificial intelligence and machine learning.
 - 📫 How to reach me?
-<br/>
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.zidha@gmail.com)](mailto:hi.zidha@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
