@@ -10,13 +10,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
   
 ### ✍️ Random Dev Quote
-<img id="random-quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-  <script>
-    window.onload = function() {
-      var image = document.getElementById('random-quote');
-      image.src = image.src.split('?')[0] + '?' + new Date().getTime();
-    };
-  </script>
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&refresh=1)
 <br/>
 
 ### 📊 GitHub Stats
