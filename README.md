@@ -10,7 +10,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
   
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true){: .center-block }
 <br/>
 
 ### 📊 GitHub Stats
