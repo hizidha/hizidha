@@ -1,7 +1,6 @@
 ### Hi everyone, I'm Adisaputra Zidha 👋
 
 - 🎓 Currently im 4th year student at [Universitas Dinamika](https://dinamika.ac.id), majoring in Computer Engineering.
-- 🔭 I’m currently working at [PT Salam Pacific Indonesia Lines](https://www.spil.co.id/) as a Human Resources Information System Intern.
 - 👀 I’m interested in Machine Learning, Backend Development, UI/UX, Internet of Things and Big Data.
 - 🌱 I’m currently learning about Machine Learning, UI/UX, and Backend Development.
 - 👯 I’m looking to collaborate on the development of artificial intelligence and machine learning.
