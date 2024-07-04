@@ -9,8 +9,10 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
 
 ### 📊 GitHub Stats
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hizidha&show_icons=true&locale=en&layout=compact" alt="adisaputrazidha"/>
+  </p>
   <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hizidha&show_icons=true&locale=en&layout=compact" alt="adisaputrazidha" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%;" alt="GitHub Stats 1">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false" style="width: 45%;" alt="GitHub Stats 2">
   </div>
