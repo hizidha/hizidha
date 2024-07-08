@@ -13,12 +13,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hizidha&show_icons=true&locale=en&layout=compact" alt="adisaputrazidha"/>
   </p>
   <div style="display: flex;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%;" alt="GitHub Stats 1">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false" style="width: 45%;" alt="GitHub Stats 2">
+    <img align="center" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false" style="width: 45%;">
+    <img align="center" height="100" src="https://github-readme-stats.vercel.app/api?username=hizidha&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" style="width: 45%;">
   </div>
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=hizidha)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hizidha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
