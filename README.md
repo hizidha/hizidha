@@ -9,13 +9,12 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
 
 ### 📊 GitHub Stats
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hizidha&show_icons=true&locale=en&layout=compact" alt="adisaputrazidha"/>
-  </p>
-  <p>
-    <img align="center" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=hizidha&theme=blue-green&hide_border=false" style="width: 45%;">
-  </p>
-
+<p align="left">
+<a href="https://github.com/hizidha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hizidha&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hizidha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=hizidha)
 
