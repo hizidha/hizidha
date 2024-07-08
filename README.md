@@ -25,7 +25,7 @@
   <img width="600" height="200" src="https://github-trophies.vercel.app/?username=hizidha" alt="GitHub Trophies">
 </div>
 
-<div id="header" align="center" style="margin-top: 20px !important;">
+<div id="header" align="center" style="margin-top: 90px !important;">
   <img src="https://komarev.com/ghpvc/?username=hizidha&style=for-the-badge&color=orange" alt=""/>
 </div>
 
