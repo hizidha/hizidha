@@ -22,7 +22,7 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  ![GitHub Trophies](https://github-trophies.vercel.app/?username=hizidha)
+  <img width="600" height="200" src="https://github-trophies.vercel.app/?username=hizidha" alt="GitHub Trophies">
 </div>
 
 <div id="header" align="center">
