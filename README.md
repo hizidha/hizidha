@@ -18,6 +18,7 @@
   </div>
 
 ### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-trophies.vercel.app/?username=hizidha)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hizidha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
