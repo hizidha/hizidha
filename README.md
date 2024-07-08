@@ -14,16 +14,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/hizidha">
-    <img width="600" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hizidha&layout=compact&langs_count=8&theme=algolia"/>
-    <img width="600" height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hizidha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hizidha&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizidha&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-trophies.vercel.app/?username=hizidha)
+<div align="center">
+  ![GitHub Trophies](https://github-trophies.vercel.app/?username=hizidha)
+</div>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hizidha&style=for-the-badge&color=orange" alt=""/>
