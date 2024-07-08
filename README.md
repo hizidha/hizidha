@@ -12,18 +12,18 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=hizidha&show_icons=true&theme=vision-friendly-dark">
-  <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizidha&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <div align="center" style="margin-bottom: 310px !important;">
   <img width="600" height="200" src="https://github-trophies.vercel.app/?username=hizidha" alt="GitHub Trophies">
 </div>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=hizidha&show_icons=true&theme=vision-friendly-dark">
+  <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hizidha&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 
 <div id="header" align="center" style="margin-top: 90px !important;">
   <img src="https://komarev.com/ghpvc/?username=hizidha&style=for-the-badge&color=orange" alt=""/>
