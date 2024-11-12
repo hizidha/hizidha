@@ -3,9 +3,9 @@
 ---
 
 - 🎓 Currently I'm Fresh Graduate majoring in Computer Engineering.
-- 👀 I’m interested in Machine Learning, Backend Development, UI/UX, Internet of Things and Big Data.
-- 🌱 I’m currently learning about Machine Learning, UI/UX, and Backend Development.
-- 👯 I’m looking to collaborate on the development of artificial intelligence and machine learning.
+- 👀 I’m interested in Machine Learning, Backend Development, Data Scientist and Big Data.
+- 🌱 I’m currently learning about Machine Learning, Dev/Ops and Backend Development.
+- 👯 I’m looking to collaborate on the development of Artificial Intelligence and Data Scientist.
 - 📫 How to reach me: 
   [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hi.zidha@gmail.com)](mailto:hi.zidha@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adisaputrazidha/)](https://www.linkedin.com/in/adisaputrazidha/)
